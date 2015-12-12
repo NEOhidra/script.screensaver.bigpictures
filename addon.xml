@@ -8,6 +8,7 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <language/>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website></website>
         <source>https://github.com/dersphere/script.screensaver.bigpictures</source>
         <forum>http://forum.xbmc.org/showthread.php?tid=160347</forum>
